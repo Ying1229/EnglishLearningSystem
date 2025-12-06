@@ -1,5 +1,33 @@
 # EngLearningSystem｜英文單字＆文法學習平台
 
+🎯 **打造一套小規模英文學習 LMS，展示「前端互動 + 資料處理 + 後端雛形」的完整開發流程**
+
+> 主要負責：系統架構、前端互動功能設計、爬蟲與題庫建置、資料流程整合
+
+---
+
+## 🚀 Demo & 截圖
+（建議放 Demo 影片連結、學生端/教師端登入畫面、題庫頁面等 Screenshot）
+
+---
+
+## 🛠 技術亮點（Engineering Highlights）
+- **模組化的前端架構**（Bootstrap + JS 核心模組分層）
+- **爬蟲 + 資料標準化流程自動化**（輸出 GEPT 字彙題庫）
+- **預留後端可成長架構**（FastAPI + SQLAlchemy + Pydantic）
+- **帳號與學習歷程管理設計**（教師端/學生端雙角色體驗）
+- **前端與資料層清晰分離**（可平滑接後端 API）
+
+---
+
+## 📌 我的貢獻（My Role）
+✔ 前端 UI + 互動功能實作  
+✔ GEPT 字彙爬蟲 + 格式轉換工具  
+✔ 題庫資料設計與效能考量  
+✔ 後端雛形規劃與 DB 結構設計  
+✔ 需求與使用情境分析
+# EngLearningSystem｜英文單字＆文法學習平台
+
   一個以前端模擬為主的英語自學/教學系統，包含學生端複習與測驗、教師端帳號管理與學習紀錄查詢，並附上題庫/字彙資料集與爬蟲、轉檔腳本。預留
   FastAPI + SQLAlchemy 的後端雛形，方便日後接軌資料庫。
 
@@ -43,13 +71,37 @@
   3. 若接 SQL Server，可執行 backend/load_grammar_slides_to_db.py 將投影片 JSON 寫回 GrammarUnit.slide 欄位；backend/select.sql、backend/
      routers/data.sql 為資料表調整示例
 
-  ## 可能的下一步
+  ## 下一步
 
-  - 實作 FastAPI 路由、SQLAlchemy 模型與 Pydantic schema（backend/main.py, backend/models.py, backend/schemas.py 目前為草稿）
-  - 將前端的 localStorage 資料改由後端 API 提供，並串接真正的 DB/Auth
-  - 完整化題庫欄位/檢核（含 qid 唯一性與選項格式），擴充錯題本/重練流程
-  - 修整前端零碎程式碼（例如 frontend/js/auth.js 中未定義的 TEACHER_CREDENTIALS）
+- **使用 Spring Boot 實作完整後端 API**
+  - RESTful 課程／測驗／帳號管理等路由
+  - Controller / Service / Repository 分層設計
+  - 使用 DTO（MapStruct）與 ResponseWrapper 統一回傳格式
 
-  ———
+- **導入資料庫與使用者權限驗證**
+  - MySQL / PostgreSQL + JPA（Hibernate）
+  - Argon2 / BCrypt 密碼編碼
+  - Spring Security RBAC（Teacher / Student）
+  - JWT Token Login + Refresh Token 機制
 
+- **建立學習歷程資料模型**
+  - 與前端 localStorage 比對與遷移
+  - 設計測驗紀錄、錯題本、復習狀態 Schema
+  - ERD 正規化、建立索引提升查詢效率
+
+- **將題庫與文法資料統一由後端提供**
+  - 加入 `/api/vocab`、`/api/grammar`、`/api/quiz` 路由
+  - 分頁查詢、依等級過濾、快取 / ETag 提升效能
+
+- **擴充爬蟲與批次資料載入流程**
+  - 將資料寫入 DB，而非僅存 JSON
+  - 建立 Data Ingestion Pipeline（排程維護語料更新）
+  - 建立管理端後台操作匯入匯出
+
+- **布署與 DevOps**
+  - Docker 化整套系統
+  - 可布署至 Render / Railway / Fly.io 或自架伺服器
+  - CI/CD（GitHub Actions）執行自動化測試與格式檢查
+
+  —
   開發者：Senna
