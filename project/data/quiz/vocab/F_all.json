@@ -1,0 +1,47 @@
+[
+    {
+        "qid":1016,
+        "quiz_type": "vocab",
+        "level_id": "2",
+        "unit": "F_all",
+        "question": "You gave us a real scare when you _____, you know.",
+        "option": "{\"A\":\"flushed\",\"B\":\"flooded\",\"C\":\"fascinated\",\"D\":\"fainted\"}",
+        "answer": "D"
+    },
+    {
+        "qid":1017,
+        "quiz_type": "vocab",
+        "level_id": "2",
+        "unit": "F_all",
+        "question": "The _____ said it was going to be hot and sunny tomorrow.",
+        "option": "{\"A\":\"flesh\",\"B\":\"forecast\",\"C\":\"formula\",\"D\":\"foresee\"}",
+        "answer": "B"
+    },
+    {
+        "qid":1018,
+        "quiz_type": "vocab",
+        "level_id": "2",
+        "unit": "F_all",
+        "question": "He grew up in a strict household where dating was _____.",
+        "option": "{\"A\":\"forbidden\",\"B\":\"foggy\",\"C\":\"frame\",\"D\":\"frequent\"}",
+        "answer": "A"
+    },
+    {
+        "qid":1019,
+        "quiz_type": "vocab",
+        "level_id": "1",
+        "unit": "F_all",
+        "question": "Passengers are requested to check in two hours before the _____.",
+        "option": "{\"A\":\"function\",\"B\":\"flight\",\"C\":\"future\",\"D\":\"flu\"}",
+        "answer": "B"
+    },
+    {
+        "qid":1020,
+        "quiz_type": "vocab",
+        "level_id": "1",
+        "unit": "F_all",
+        "question": "A lot of people _____ their driving test the first time.",
+        "option": "{\"A\":\"few\",\"B\":\"fellow\",\"C\":\"fail\",\"D\":\"face\"}",
+        "answer": "C"
+    }
+]

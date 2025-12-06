@@ -1,0 +1,47 @@
+[
+    {
+        "qid":1006,
+        "quiz_type": "vocab",
+        "level_id": "1",
+        "unit": "J2",
+        "question": "So far, he seems to be handling the job well, but it's really too soon to _____.",
+        "option": "{\"A\":\"joy\",\"B\":\"joke\",\"C\":\"judge\",\"D\":\"joint\"}",
+        "answer": "C"
+    },
+    {
+        "qid":1007,
+        "quiz_type": "vocab",
+        "level_id": "1",
+        "unit": "J2",
+        "question": "The _____ took notes throughout the interview.",
+        "option": "{\"A\":\"journalist\",\"B\":\"joint\",\"C\":\"juice\",\"D\":\"jump\"}",
+        "answer": "A"
+    },
+    {
+        "qid":1008,
+        "quiz_type": "vocab",
+        "level_id": "2",
+        "unit": "J2",
+        "question": "Saturday morning sessions are for _____ only.",
+        "option": "{\"A\":\"journeys\",\"B\":\"juniors\",\"C\":\"jungles\",\"D\":\"judgments\"}",
+        "answer": "B"
+    },
+    {
+        "qid":1009,
+        "quiz_type": "vocab",
+        "level_id": "2",
+        "unit": "J2",
+        "question": "The _____ was quite quick because the road was clear .",
+        "option": "{\"A\":\"journal\",\"B\":\"jungle\",\"C\":\"judgment\",\"D\":\"journey\"}",
+        "answer": "D"
+    },
+    {
+        "qid":1010,
+        "quiz_type": "vocab",
+        "level_id": "2",
+        "unit": "J2",
+        "question": "Christmas is such a _____ time of year.",
+        "option": "{\"A\":\"joyful\",\"B\":\"juicy\",\"C\":\"junior\",\"D\":\"joint\"}",
+        "answer": "A"
+    }
+]

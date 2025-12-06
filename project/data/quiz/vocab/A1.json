@@ -1,0 +1,47 @@
+[
+    {
+        "qid":"2006",
+        "quiz_type": "vocab",
+        "level_id": "2",
+        "unit": "A1",
+        "question": "According to an eyewitness account, the thieves _____ their vehicle near the scene of the robbery and then ran off.",
+        "option": "{\"A\":\"abandoned\",\"B\":\"aboard\",\"C\":\"absorbed\",\"D\":\"absoluted\"}",
+        "answer": "A"
+    },
+    {
+        "qid":"2007",
+        "quiz_type": "vocab",
+        "level_id": "2",
+        "unit": "A1",
+        "question": "The school is noted for its _____ excellence.",
+        "option": "{\"A\":\"abnormal\",\"B\":\"able\",\"C\":\"academic\",\"D\":\"abstract\"}",
+        "answer": "C"
+    },
+    {
+        "qid":"2008",
+        "quiz_type": "vocab",
+        "level_id": "2",
+        "unit": "A1",
+        "question": "Can you account for your _____ last Friday?",
+        "option": "{\"A\":\"abuse\",\"B\":\"absence\",\"C\":\"ability\",\"D\":\"absorb\"}",
+        "answer": "B"
+    },
+    {
+        "qid":"2009",
+        "quiz_type": "vocab",
+        "level_id": "1",
+        "unit": "A1",
+        "question": "The helicopter was hovering _____ the building.",
+        "option": "{\"A\":\"abroad\",\"B\":\"about\",\"C\":\"above\",\"D\":\"ability\"}",
+        "answer": "C"
+    },
+    {
+        "qid":"2010",
+        "quiz_type": "vocab",
+        "level_id": "1",
+        "unit": "A1",
+        "question": "I lost my job and wasn’t _____ to afford my old apartment.",
+        "option": "{\"A\":\"above\",\"B\":\"aboard\",\"C\":\"absent\",\"D\":\"able\"}",
+        "answer": "D"
+    }
+]

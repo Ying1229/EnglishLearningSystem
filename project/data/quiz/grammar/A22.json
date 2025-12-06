@@ -1,0 +1,47 @@
+[
+    {
+        "qid":1026,
+        "quiz_type": "grammar",
+        "level_id": "1",
+        "unit": "A22",
+        "question": "We have heard the story _____ many times.",
+        "option": "{\"A\":\"told\",\"B\":\"to tell\",\"C\":\"tell\",\"D\":\"telling\"}",
+        "answer": "A"
+    },
+    {
+        "qid":1027,
+        "quiz_type": "grammar",
+        "level_id": "1",
+        "unit": "A22",
+        "question": "Hey, listen! Do you hear a child _____ ?",
+        "option": "{\"A\":\"cries\",\"B\":\"to cry\",\"C\":\"crying\",\"D\":\"cried\"}",
+        "answer": "C"
+    },
+    {
+        "qid":1028,
+        "quiz_type": "grammar",
+        "level_id": "1",
+        "unit": "A22",
+        "question": "We heard the famous singer _____ many beautiful songs.",
+        "option": "{\"A\":\"sing\",\"B\":\"sang\",\"C\":\"sung\",\"D\":\"to sing\"}",
+        "answer": "A"
+    },
+    {
+        "qid":1029,
+        "quiz_type": "grammar",
+        "level_id": "1",
+        "unit": "A22",
+        "question": "Nina didn’t see Jean _____ Kevin.",
+        "option": "{\"A\":\"to be hit\",\"B\":\"hits\",\"C\":\"to hit\",\"D\":\"hit\"}",
+        "answer": "D"
+    },
+    {
+        "qid":1030,
+        "quiz_type": "grammar",
+        "level_id": "1",
+        "unit": "A22",
+        "question": "I saw Joe and his girlfriend _____ to King’s Theater yesterday.",
+        "option": "{\"A\":\"go\",\"B\":\"to go\",\"C\":\"went\",\"D\":\"gone\"}",
+        "answer": "A"
+    }
+]

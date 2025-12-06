@@ -1,0 +1,122 @@
+[
+    {
+        "word": "join",
+        "pos": "verb",
+        "meaning": "參加",
+        "level_id": "1"
+    },
+    {
+        "word": "joint",
+        "pos": "noun",
+        "meaning": "接點",
+        "level_id": "1"
+    },
+    {
+        "word": "joint",
+        "pos": "adj.",
+        "meaning": "共同的",
+        "level_id": "1"
+    },
+    {
+        "word": "joke",
+        "pos": "noun/verb",
+        "meaning": "玩笑；開玩笑",
+        "level_id": "1"
+    },
+    {
+        "word": "journal",
+        "pos": "noun",
+        "meaning": "報刊雜誌、日記",
+        "level_id": "2"
+    },
+    {
+        "word": "journalist",
+        "pos": "noun",
+        "meaning": "新聞記者",
+        "level_id": "1"
+    },
+    {
+        "word": "journey",
+        "pos": "noun/verb",
+        "meaning": "旅行",
+        "level_id": "2"
+    },
+    {
+        "word": "joy",
+        "pos": "noun",
+        "meaning": "歡樂",
+        "level_id": "1"
+    },
+    {
+        "word": "joyful",
+        "pos": "adj.",
+        "meaning": "令人愉快的",
+        "level_id": "2"
+    },
+    {
+        "word": "judge",
+        "pos": "noun",
+        "meaning": "法官",
+        "level_id": "1"
+    },
+    {
+        "word": "judge",
+        "pos": "verb",
+        "meaning": "判斷",
+        "level_id": "1"
+    },
+    {
+        "word": "judgment",
+        "pos": "noun",
+        "meaning": "判斷、審判",
+        "level_id": "2"
+    },
+    {
+        "word": "juice",
+        "pos": "noun",
+        "meaning": "果汁",
+        "level_id": "1"
+    },
+    {
+        "word": "juicy",
+        "pos": "adj.",
+        "meaning": "多汁的",
+        "level_id": "2"
+    },
+    {
+        "word": "July",
+        "pos": "noun",
+        "meaning": "七月",
+        "level_id": "1"
+    },
+    {
+        "word": "jump",
+        "pos": "verb/noun",
+        "meaning": "跳",
+        "level_id": "1"
+    },
+    {
+        "word": "June",
+        "pos": "noun",
+        "meaning": "六月",
+        "level_id": "1"
+    },
+    {
+        "word": "jungle",
+        "pos": "noun",
+        "meaning": "叢林",
+        "level_id": "2"
+    },
+    {
+        "word": "junior",
+        "pos": "adj./noun",
+        "meaning": "較年輕的、資淺的、（四年制中學或大學）三年級的；後輩、資淺者、（四年制中學或大學的）三年級學生",
+        "level_id": "2"
+    },
+    {
+        "word": "junior high school",
+        "pos": "noun",
+        "meaning": "國中、國民中學",
+        "level_id": "1"
+    }
+]

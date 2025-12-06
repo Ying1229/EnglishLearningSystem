@@ -1,0 +1,6 @@
+quiz_type,level_id,unit,question,option,answer
+grammar,2,C02,"_____ Kevin went to bed, he cleaned the room.","{""A"":""before"",""B"":""when"",""C"":""but"",""D"":""although""}","A"
+grammar,2,C02,"Don’t eat food _____ you’re in the library.","{""A"":""before"",""B"":""when"",""C"":""but"",""D"":""although""}","B"
+grammar,2,C02,"_____ she took some medicine for her headache last night, she didn’t feel better.","{""A"":""before"",""B"":""when"",""C"":""but"",""D"":""although""}","D"
+grammar,2,C02,"Jay is generous, although he isn’t rich.","{""A"":""before"",""B"":""when"",""C"":""but"",""D"":""although""}","D"
+grammar,2,C02,"Peter and his brother liked toy trains ____ they were kids.","{""A"":""before"",""B"":""though"",""C"":""after"",""D"":""when""}","D"

@@ -1,0 +1,122 @@
+[
+    {
+        "word": "a",
+        "pos": "art.",
+        "meaning": "一（個）",
+        "level_id": "1"
+    },
+    {
+        "word": "A.M.",
+        "pos": "adv.",
+        "meaning": "上午",
+        "level_id": "1"
+    },
+    {
+        "word": "abandon",
+        "pos": "noun",
+        "meaning": "盡情、放縱",
+        "level_id": "2"
+    },
+    {
+        "word": "abandon",
+        "pos": "verb",
+        "meaning": "拋棄、捨棄、中止",
+        "level_id": "2"
+    },
+    {
+        "word": "ability",
+        "pos": "noun",
+        "meaning": "能力、才能",
+        "level_id": "1"
+    },
+    {
+        "word": "able",
+        "pos": "adj.",
+        "meaning": "能夠的、有才能的",
+        "level_id": "1"
+    },
+    {
+        "word": "abnormal",
+        "pos": "adj.",
+        "meaning": "不正常的",
+        "level_id": "2"
+    },
+    {
+        "word": "aboard",
+        "pos": "prep./adv.",
+        "meaning": "在（交通工具）上",
+        "level_id": "2"
+    },
+    {
+        "word": "about",
+        "pos": "prep./adv.",
+        "meaning": "大約、關於；大約、幾乎、在周圍",
+        "level_id": "1"
+    },
+    {
+        "word": "above",
+        "pos": "prep./adv.",
+        "meaning": "在…上面、超過、大於",
+        "level_id": "1"
+    },
+    {
+        "word": "above",
+        "pos": "adv./adj.",
+        "meaning": "上文、前文；前文述及的、上述的",
+        "level_id": "1"
+    },
+    {
+        "word": "abroad",
+        "pos": "adv.",
+        "meaning": "在國外、到國外",
+        "level_id": "1"
+    },
+    {
+        "word": "absence",
+        "pos": "noun",
+        "meaning": "缺席、不在場",
+        "level_id": "2"
+    },
+    {
+        "word": "absent",
+        "pos": "adj.",
+        "meaning": "缺席的、不在場的、心不在焉的",
+        "level_id": "1"
+    },
+    {
+        "word": "absolute",
+        "pos": "adj./noun",
+        "meaning": "完全的、絕對的；絕對",
+        "level_id": "2"
+    },
+    {
+        "word": "absorb",
+        "pos": "verb",
+        "meaning": "吸收、併入",
+        "level_id": "2"
+    },
+    {
+        "word": "abstract",
+        "pos": "noun",
+        "meaning": "摘要",
+        "level_id": "2"
+    },
+    {
+        "word": "abstract",
+        "pos": "adj./noun",
+        "meaning": "抽象的",
+        "level_id": "2"
+    },
+    {
+        "word": "abuse",
+        "pos": "noun/verb",
+        "meaning": "濫用、虐待",
+        "level_id": "2"
+    },
+    {
+        "word": "academic",
+        "pos": "adj.",
+        "meaning": "學術的、學業的",
+        "level_id": "2"
+    }
+]

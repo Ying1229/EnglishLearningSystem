@@ -1,0 +1,122 @@
+[
+    {
+        "word": "scream",
+        "pos": "verb/noun",
+        "meaning": "尖叫；尖叫聲",
+        "level_id": "2"
+    },
+    {
+        "word": "screen",
+        "pos": "noun",
+        "meaning": "螢幕",
+        "level_id": "1"
+    },
+    {
+        "word": "screen",
+        "pos": "verb",
+        "meaning": "遮擋、檢查、放映",
+        "level_id": "1"
+    },
+    {
+        "word": "screw",
+        "pos": "verb/noun",
+        "meaning": "用螺絲固定、旋；螺絲",
+        "level_id": "2"
+    },
+    {
+        "word": "scrub",
+        "pos": "verb/noun",
+        "meaning": "刷洗",
+        "level_id": "2"
+    },
+    {
+        "word": "sculpture",
+        "pos": "noun",
+        "meaning": "雕刻品、雕刻術",
+        "level_id": "2"
+    },
+    {
+        "word": "sea",
+        "pos": "noun",
+        "meaning": "海洋",
+        "level_id": "1"
+    },
+    {
+        "word": "seafood",
+        "pos": "noun",
+        "meaning": "海鮮",
+        "level_id": "2"
+    },
+    {
+        "word": "seagull",
+        "pos": "noun",
+        "meaning": "海鷗",
+        "level_id": "2"
+    },
+    {
+        "word": "seal",
+        "pos": "verb/noun",
+        "meaning": "蓋章、密封；印章、封條",
+        "level_id": "2"
+    },
+    {
+        "word": "search",
+        "pos": "noun/verb",
+        "meaning": "搜尋",
+        "level_id": "1"
+    },
+    {
+        "word": "seaside",
+        "pos": "noun",
+        "meaning": "海邊",
+        "level_id": "2"
+    },
+    {
+        "word": "season",
+        "pos": "verb",
+        "meaning": "調味",
+        "level_id": "2"
+    },
+    {
+        "word": "season",
+        "pos": "noun",
+        "meaning": "季節",
+        "level_id": "1"
+    },
+    {
+        "word": "seat",
+        "pos": "noun/verb",
+        "meaning": "座位；使就座",
+        "level_id": "1"
+    },
+    {
+        "word": "second",
+        "pos": "noun",
+        "meaning": "第二位；秒",
+        "level_id": "1"
+    },
+    {
+        "word": "second",
+        "pos": "adj./adv.",
+        "meaning": "第二的；居第二位",
+        "level_id": "1"
+    },
+    {
+        "word": "second-hand",
+        "pos": "adj./adv.",
+        "meaning": "舊的、二手的；二手地、間接地",
+        "level_id": "2"
+    },
+    {
+        "word": "secondary",
+        "pos": "adj.",
+        "meaning": "次要的",
+        "level_id": "2"
+    },
+    {
+        "word": "secret",
+        "pos": "adj./noun",
+        "meaning": "秘密的；秘密",
+        "level_id": "1"
+    }
+]

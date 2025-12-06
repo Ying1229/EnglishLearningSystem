@@ -1,0 +1,6 @@
+quiz_type,level_id,unit,question,option,answer
+vocab,2,F_all,"You gave us a real scare when you _____, you know.","{""A"":""flushed"",""B"":""flooded"",""C"":""fascinated"",""D"":""fainted""}","D"
+vocab,2,F_all,"The _____ said it was going to be hot and sunny tomorrow.","{""A"":""flesh"",""B"":""forecast"",""C"":""formula"",""D"":""foresee""}","B"
+vocab,2,F_all,"He grew up in a strict household where dating was _____.","{""A"":""forbidden"",""B"":""foggy"",""C"":""frame"",""D"":""frequent""}","A"
+vocab,1,F_all,"Passengers are requested to check in two hours before the _____.","{""A"":""function"",""B"":""flight"",""C"":""future"",""D"":""flu""}","B"
+vocab,1,F_all,"A lot of people _____ their driving test the first time.","{""A"":""few"",""B"":""fellow"",""C"":""fail"",""D"":""face""}","C"

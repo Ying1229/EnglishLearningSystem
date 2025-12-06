@@ -1,0 +1,47 @@
+[
+    {
+        "qid":6,
+        "quiz_type": "grammar",
+        "level_id": "2",
+        "unit": "C02",
+        "question": "_____ Kevin went to bed, he cleaned the room.",
+        "option": "{\"A\":\"before\",\"B\":\"when\",\"C\":\"but\",\"D\":\"although\"}",
+        "answer": "A"
+    },
+    {
+        "qid":7,
+        "quiz_type": "grammar",
+        "level_id": "2",
+        "unit": "C02",
+        "question": "Don’t eat food _____ you’re in the library.",
+        "option": "{\"A\":\"before\",\"B\":\"when\",\"C\":\"but\",\"D\":\"although\"}",
+        "answer": "B"
+    },
+    {
+        "qid":8,
+        "quiz_type": "grammar",
+        "level_id": "2",
+        "unit": "C02",
+        "question": "_____ she took some medicine for her headache last night, she didn’t feel better.",
+        "option": "{\"A\":\"before\",\"B\":\"when\",\"C\":\"but\",\"D\":\"although\"}",
+        "answer": "D"
+    },
+    {  
+        "qid":9,
+        "quiz_type": "grammar",
+        "level_id": "2",
+        "unit": "C02",
+        "question": "Jay is generous, although he isn’t rich.",
+        "option": "{\"A\":\"before\",\"B\":\"when\",\"C\":\"but\",\"D\":\"although\"}",
+        "answer": "D"
+    },
+    {
+        "qid":10,
+        "quiz_type": "grammar",
+        "level_id": "2",
+        "unit": "C02",
+        "question": "Peter and his brother liked toy trains ____ they were kids.",
+        "option": "{\"A\":\"before\",\"B\":\"though\",\"C\":\"after\",\"D\":\"when\"}",
+        "answer": "D"
+    }
+]

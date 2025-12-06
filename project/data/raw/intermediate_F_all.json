@@ -1,0 +1,1466 @@
+[
+    {
+        "word": "fable",
+        "pos": "noun",
+        "meaning": "寓言",
+        "level_id": "2"
+    },
+    {
+        "word": "face",
+        "pos": "noun/verb",
+        "meaning": "臉；面對",
+        "level_id": "1"
+    },
+    {
+        "word": "facial",
+        "pos": "adj.",
+        "meaning": "臉部的",
+        "level_id": "2"
+    },
+    {
+        "word": "facility",
+        "pos": "noun",
+        "meaning": "設施、設備",
+        "level_id": "2"
+    },
+    {
+        "word": "fact",
+        "pos": "noun",
+        "meaning": "事實",
+        "level_id": "1"
+    },
+    {
+        "word": "factor",
+        "pos": "noun",
+        "meaning": "因素",
+        "level_id": "2"
+    },
+    {
+        "word": "factory",
+        "pos": "noun",
+        "meaning": "工廠",
+        "level_id": "1"
+    },
+    {
+        "word": "fade",
+        "pos": "verb",
+        "meaning": "變淡、逐漸消失",
+        "level_id": "2"
+    },
+    {
+        "word": "fail",
+        "pos": "verb",
+        "meaning": "失敗、不及格",
+        "level_id": "1"
+    },
+    {
+        "word": "failure",
+        "pos": "noun",
+        "meaning": "失敗、故障",
+        "level_id": "1"
+    },
+    {
+        "word": "faint",
+        "pos": "adj.",
+        "meaning": "微弱的；昏眩的",
+        "level_id": "2"
+    },
+    {
+        "word": "faint",
+        "pos": "verb/noun",
+        "meaning": "昏倒",
+        "level_id": "2"
+    },
+    {
+        "word": "fair",
+        "pos": "adj.",
+        "meaning": "公平的",
+        "level_id": "1"
+    },
+    {
+        "word": "fair",
+        "pos": "noun",
+        "meaning": "市集、商品展覽會、園遊會",
+        "level_id": "1"
+    },
+    {
+        "word": "fairly",
+        "pos": "adv.",
+        "meaning": "相當地、公正地",
+        "level_id": "2"
+    },
+    {
+        "word": "fairy",
+        "pos": "noun",
+        "meaning": "仙子、小精靈",
+        "level_id": "2"
+    },
+    {
+        "word": "faith",
+        "pos": "noun",
+        "meaning": "信心、信仰",
+        "level_id": "2"
+    },
+    {
+        "word": "faithful",
+        "pos": "adj.",
+        "meaning": "忠誠的、如實的",
+        "level_id": "2"
+    },
+    {
+        "word": "fake",
+        "pos": "adj./noun/verb",
+        "meaning": "假的、偽造的；假貨；偽造、佯裝",
+        "level_id": "2"
+    },
+    {
+        "word": "fall",
+        "pos": "verb",
+        "meaning": "跌倒、掉落、下降",
+        "level_id": "1"
+    },
+    {
+        "word": "fall",
+        "pos": "verb",
+        "meaning": "跌倒、掉落、下降",
+        "level_id": "1"
+    },
+    {
+        "word": "false",
+        "pos": "adj.",
+        "meaning": "錯誤的、假的",
+        "level_id": "1"
+    },
+    {
+        "word": "fame",
+        "pos": "noun",
+        "meaning": "名氣",
+        "level_id": "2"
+    },
+    {
+        "word": "familiar",
+        "pos": "adj.",
+        "meaning": "熟悉的",
+        "level_id": "2"
+    },
+    {
+        "word": "family",
+        "pos": "noun",
+        "meaning": "家人、家庭",
+        "level_id": "1"
+    },
+    {
+        "word": "famous",
+        "pos": "adj.",
+        "meaning": "著名的",
+        "level_id": "1"
+    },
+    {
+        "word": "fan",
+        "pos": "noun",
+        "meaning": "迷、狂熱愛好者；扇",
+        "level_id": "1"
+    },
+    {
+        "word": "fancy",
+        "pos": "adj.",
+        "meaning": "花俏的、昂貴的、豪華的",
+        "level_id": "1"
+    },
+    {
+        "word": "fantastic",
+        "pos": "adj.",
+        "meaning": "極好的",
+        "level_id": "1"
+    },
+    {
+        "word": "fantasy",
+        "pos": "noun",
+        "meaning": "幻想、想像、奇幻文學",
+        "level_id": "2"
+    },
+    {
+        "word": "far",
+        "pos": "adv./adj.",
+        "meaning": "遠、非常；遠的",
+        "level_id": "1"
+    },
+    {
+        "word": "fare",
+        "pos": "noun",
+        "meaning": "（交通工具）費",
+        "level_id": "2"
+    },
+    {
+        "word": "farewell",
+        "pos": "noun/adj.",
+        "meaning": "告別；告別的",
+        "level_id": "2"
+    },
+    {
+        "word": "farm",
+        "pos": "noun",
+        "meaning": "農場",
+        "level_id": "1"
+    },
+    {
+        "word": "farmer",
+        "pos": "noun",
+        "meaning": "農夫",
+        "level_id": "1"
+    },
+    {
+        "word": "farming",
+        "pos": "noun",
+        "meaning": "農業、畜牧業、養殖業",
+        "level_id": "2"
+    },
+    {
+        "word": "fascinate",
+        "pos": "verb",
+        "meaning": "迷住",
+        "level_id": "2"
+    },
+    {
+        "word": "fashion",
+        "pos": "noun",
+        "meaning": "流行時尚",
+        "level_id": "1"
+    },
+    {
+        "word": "fashion",
+        "pos": "verb",
+        "meaning": "塑造成、製作",
+        "level_id": "1"
+    },
+    {
+        "word": "fashionable",
+        "pos": "adj.",
+        "meaning": "時髦的",
+        "level_id": "1"
+    },
+    {
+        "word": "fast",
+        "pos": "adj./adv.",
+        "meaning": "快的；快速地",
+        "level_id": "1"
+    },
+    {
+        "word": "fasten",
+        "pos": "verb",
+        "meaning": "扣緊、使牢固",
+        "level_id": "2"
+    },
+    {
+        "word": "fat",
+        "pos": "adj./noun",
+        "meaning": "肥胖的；脂肪",
+        "level_id": "1"
+    },
+    {
+        "word": "fatal",
+        "pos": "adj.",
+        "meaning": "致命的、災難性的",
+        "level_id": "2"
+    },
+    {
+        "word": "fate",
+        "pos": "noun",
+        "meaning": "命運",
+        "level_id": "2"
+    },
+    {
+        "word": "father",
+        "pos": "noun",
+        "meaning": "父親",
+        "level_id": "1"
+    },
+    {
+        "word": "faucet",
+        "pos": "noun",
+        "meaning": "水龍頭",
+        "level_id": "1"
+    },
+    {
+        "word": "fault",
+        "pos": "noun",
+        "meaning": "過錯、缺點",
+        "level_id": "1"
+    },
+    {
+        "word": "faulty",
+        "pos": "adj.",
+        "meaning": "有缺陷的",
+        "level_id": "2"
+    },
+    {
+        "word": "favor",
+        "pos": "verb/noun",
+        "meaning": "支持、偏袒；幫助、恩惠",
+        "level_id": "1"
+    },
+    {
+        "word": "favorable",
+        "pos": "adj.",
+        "meaning": "贊同的、有利的",
+        "level_id": "2"
+    },
+    {
+        "word": "favorite",
+        "pos": "adj./noun",
+        "meaning": "最喜愛的；最喜愛的人/物",
+        "level_id": "1"
+    },
+    {
+        "word": "fax",
+        "pos": "noun/verb",
+        "meaning": "傳真（機）",
+        "level_id": "2"
+    },
+    {
+        "word": "fear",
+        "pos": "noun/verb",
+        "meaning": "恐懼、害怕",
+        "level_id": "1"
+    },
+    {
+        "word": "feast",
+        "pos": "noun/verb",
+        "meaning": "盛宴",
+        "level_id": "2"
+    },
+    {
+        "word": "feather",
+        "pos": "noun",
+        "meaning": "羽毛",
+        "level_id": "2"
+    },
+    {
+        "word": "feature",
+        "pos": "noun/verb",
+        "meaning": "特色；以…為特色",
+        "level_id": "2"
+    },
+    {
+        "word": "February",
+        "pos": "noun",
+        "meaning": "二月",
+        "level_id": "1"
+    },
+    {
+        "word": "federal",
+        "pos": "adj.",
+        "meaning": "聯邦政府的",
+        "level_id": "2"
+    },
+    {
+        "word": "fee",
+        "pos": "noun",
+        "meaning": "費用",
+        "level_id": "1"
+    },
+    {
+        "word": "feed",
+        "pos": "verb",
+        "meaning": "餵",
+        "level_id": "1"
+    },
+    {
+        "word": "feedback",
+        "pos": "noun",
+        "meaning": "回饋",
+        "level_id": "2"
+    },
+    {
+        "word": "feel",
+        "pos": "verb",
+        "meaning": "感覺",
+        "level_id": "1"
+    },
+    {
+        "word": "feeling",
+        "pos": "noun",
+        "meaning": "感覺、感情",
+        "level_id": "1"
+    },
+    {
+        "word": "fellow",
+        "pos": "noun/adj.",
+        "meaning": "夥伴；同類的、同伴的",
+        "level_id": "1"
+    },
+    {
+        "word": "female",
+        "pos": "adj./noun",
+        "meaning": "女性的；女性",
+        "level_id": "1"
+    },
+    {
+        "word": "fence",
+        "pos": "noun",
+        "meaning": "籬笆",
+        "level_id": "1"
+    },
+    {
+        "word": "ferry",
+        "pos": "noun/verb",
+        "meaning": "渡輪；運送",
+        "level_id": "2"
+    },
+    {
+        "word": "fertile",
+        "pos": "adj.",
+        "meaning": "肥沃的、豐富的；可生育的",
+        "level_id": "2"
+    },
+    {
+        "word": "fertilizer",
+        "pos": "noun",
+        "meaning": "肥料",
+        "level_id": "2"
+    },
+    {
+        "word": "festival",
+        "pos": "noun",
+        "meaning": "節慶",
+        "level_id": "1"
+    },
+    {
+        "word": "fetch",
+        "pos": "verb",
+        "meaning": "拿來、取物、接",
+        "level_id": "2"
+    },
+    {
+        "word": "fetch",
+        "pos": "noun",
+        "meaning": "（跟狗玩的）丟接遊戲",
+        "level_id": "2"
+    },
+    {
+        "word": "fever",
+        "pos": "noun",
+        "meaning": "發燒",
+        "level_id": "1"
+    },
+    {
+        "word": "few",
+        "pos": "pron./adj.",
+        "meaning": "少數的",
+        "level_id": "1"
+    },
+    {
+        "word": "fiction",
+        "pos": "noun",
+        "meaning": "小說、虛構的事",
+        "level_id": "2"
+    },
+    {
+        "word": "field",
+        "pos": "noun",
+        "meaning": "田地；運動場；領域",
+        "level_id": "1"
+    },
+    {
+        "word": "fierce",
+        "pos": "adj.",
+        "meaning": "激烈的、兇猛的",
+        "level_id": "2"
+    },
+    {
+        "word": "fifteen",
+        "pos": "number/pron./noun/adj.",
+        "meaning": "十五",
+        "level_id": "1"
+    },
+    {
+        "word": "fifty",
+        "pos": "number/pron./noun/adj.",
+        "meaning": "五十",
+        "level_id": "1"
+    },
+    {
+        "word": "fight",
+        "pos": "verb/noun",
+        "meaning": "打架、爭吵、抗爭",
+        "level_id": "1"
+    },
+    {
+        "word": "fighter",
+        "pos": "noun",
+        "meaning": "戰士、打者；戰鬥機",
+        "level_id": "2"
+    },
+    {
+        "word": "figure",
+        "pos": "noun",
+        "meaning": "數字、圖表",
+        "level_id": "1"
+    },
+    {
+        "word": "figure",
+        "pos": "verb",
+        "meaning": "認為、計算",
+        "level_id": "1"
+    },
+    {
+        "word": "file",
+        "pos": "noun",
+        "meaning": "檔案",
+        "level_id": "2"
+    },
+    {
+        "word": "file",
+        "pos": "verb",
+        "meaning": "把（文件）歸檔；提出（訴訟、申請等）",
+        "level_id": "2"
+    },
+    {
+        "word": "fill",
+        "pos": "verb",
+        "meaning": "裝滿",
+        "level_id": "1"
+    },
+    {
+        "word": "film",
+        "pos": "noun",
+        "meaning": "電影",
+        "level_id": "1"
+    },
+    {
+        "word": "final",
+        "pos": "adj.",
+        "meaning": "最後的",
+        "level_id": "1"
+    },
+    {
+        "word": "final",
+        "pos": "noun",
+        "meaning": "期末考",
+        "level_id": "1"
+    },
+    {
+        "word": "finance",
+        "pos": "noun/verb",
+        "meaning": "金融、財政；（提供）資金",
+        "level_id": "2"
+    },
+    {
+        "word": "financial",
+        "pos": "adj.",
+        "meaning": "財務的、金融的",
+        "level_id": "2"
+    },
+    {
+        "word": "find",
+        "pos": "verb",
+        "meaning": "找到；感到",
+        "level_id": "1"
+    },
+    {
+        "word": "fine",
+        "pos": "adj.",
+        "meaning": "很好的",
+        "level_id": "1"
+    },
+    {
+        "word": "fine",
+        "pos": "verb/noun",
+        "meaning": "處以罰金；罰金",
+        "level_id": "1"
+    },
+    {
+        "word": "finger",
+        "pos": "noun",
+        "meaning": "手指",
+        "level_id": "1"
+    },
+    {
+        "word": "finish",
+        "pos": "verb/noun",
+        "meaning": "結束",
+        "level_id": "1"
+    },
+    {
+        "word": "fire",
+        "pos": "noun",
+        "meaning": "火",
+        "level_id": "1"
+    },
+    {
+        "word": "fire",
+        "pos": "verb",
+        "meaning": "開火、發射；開除",
+        "level_id": "1"
+    },
+    {
+        "word": "fireplace",
+        "pos": "noun",
+        "meaning": "壁爐",
+        "level_id": "2"
+    },
+    {
+        "word": "firework",
+        "pos": "noun",
+        "meaning": "煙火",
+        "level_id": "2"
+    },
+    {
+        "word": "firm",
+        "pos": "noun",
+        "meaning": "公司",
+        "level_id": "1"
+    },
+    {
+        "word": "firm",
+        "pos": "adj.",
+        "meaning": "堅固的",
+        "level_id": "1"
+    },
+    {
+        "word": "first",
+        "pos": "adj./adv./pron.",
+        "meaning": "首先",
+        "level_id": "1"
+    },
+    {
+        "word": "fish",
+        "pos": "noun/verb",
+        "meaning": "魚；釣魚",
+        "level_id": "1"
+    },
+    {
+        "word": "fisherman",
+        "pos": "noun",
+        "meaning": "漁民",
+        "level_id": "1"
+    },
+    {
+        "word": "fist",
+        "pos": "noun/verb",
+        "meaning": "拳頭;握拳、拳打",
+        "level_id": "2"
+    },
+    {
+        "word": "fit",
+        "pos": "verb",
+        "meaning": "合適",
+        "level_id": "1"
+    },
+    {
+        "word": "fit",
+        "pos": "adj.",
+        "meaning": "健壯的、健康的",
+        "level_id": "1"
+    },
+    {
+        "word": "fit",
+        "pos": "noun",
+        "meaning": "一陣；（病）發作",
+        "level_id": "2"
+    },
+    {
+        "word": "five",
+        "pos": "number/pron./noun/adj.",
+        "meaning": "五",
+        "level_id": "1"
+    },
+    {
+        "word": "fix",
+        "pos": "verb",
+        "meaning": "修理",
+        "level_id": "1"
+    },
+    {
+        "word": "flag",
+        "pos": "noun",
+        "meaning": "旗",
+        "level_id": "1"
+    },
+    {
+        "word": "flame",
+        "pos": "noun/verb",
+        "meaning": "火焰；燃燒",
+        "level_id": "2"
+    },
+    {
+        "word": "flash",
+        "pos": "noun/verb",
+        "meaning": "閃光、（想法）掠過",
+        "level_id": "2"
+    },
+    {
+        "word": "flashlight",
+        "pos": "noun",
+        "meaning": "手電筒",
+        "level_id": "1"
+    },
+    {
+        "word": "flat",
+        "pos": "noun",
+        "meaning": "公寓",
+        "level_id": "1"
+    },
+    {
+        "word": "flat",
+        "pos": "adj.",
+        "meaning": "平坦的",
+        "level_id": "1"
+    },
+    {
+        "word": "flat tire",
+        "pos": "noun",
+        "meaning": "沒氣的輪胎",
+        "level_id": "1"
+    },
+    {
+        "word": "flatter",
+        "pos": "verb",
+        "meaning": "奉承",
+        "level_id": "2"
+    },
+    {
+        "word": "flavor",
+        "pos": "noun/verb",
+        "meaning": "味道；調味",
+        "level_id": "2"
+    },
+    {
+        "word": "flea",
+        "pos": "noun",
+        "meaning": "跳蚤",
+        "level_id": "2"
+    },
+    {
+        "word": "flee",
+        "pos": "verb",
+        "meaning": "逃離",
+        "level_id": "2"
+    },
+    {
+        "word": "flesh",
+        "pos": "noun",
+        "meaning": "肉",
+        "level_id": "2"
+    },
+    {
+        "word": "flexible",
+        "pos": "adj.",
+        "meaning": "有彈性的",
+        "level_id": "2"
+    },
+    {
+        "word": "flight",
+        "pos": "noun",
+        "meaning": "航程、班機",
+        "level_id": "1"
+    },
+    {
+        "word": "float",
+        "pos": "verb/noun",
+        "meaning": "漂浮、飄動；浮板",
+        "level_id": "2"
+    },
+    {
+        "word": "flock",
+        "pos": "noun/verb",
+        "meaning": "（羊或鳥）群、人群；聚集",
+        "level_id": "2"
+    },
+    {
+        "word": "flood",
+        "pos": "noun/verb",
+        "meaning": "水災；淹水、氾濫",
+        "level_id": "2"
+    },
+    {
+        "word": "flooding",
+        "pos": "noun",
+        "meaning": "水災",
+        "level_id": "2"
+    },
+    {
+        "word": "floor",
+        "pos": "noun",
+        "meaning": "地板、樓層",
+        "level_id": "1"
+    },
+    {
+        "word": "flour",
+        "pos": "noun",
+        "meaning": "麵粉",
+        "level_id": "1"
+    },
+    {
+        "word": "flow",
+        "pos": "noun/verb",
+        "meaning": "流動",
+        "level_id": "1"
+    },
+    {
+        "word": "flower",
+        "pos": "noun",
+        "meaning": "花",
+        "level_id": "1"
+    },
+    {
+        "word": "flu",
+        "pos": "noun",
+        "meaning": "流行性感冒",
+        "level_id": "1"
+    },
+    {
+        "word": "fluent",
+        "pos": "adj.",
+        "meaning": "流利的",
+        "level_id": "2"
+    },
+    {
+        "word": "flush",
+        "pos": "verb/noun",
+        "meaning": "臉紅；沖馬桶",
+        "level_id": "2"
+    },
+    {
+        "word": "flute",
+        "pos": "noun",
+        "meaning": "長笛",
+        "level_id": "1"
+    },
+    {
+        "word": "fly",
+        "pos": "verb",
+        "meaning": "飛",
+        "level_id": "1"
+    },
+    {
+        "word": "fly",
+        "pos": "noun",
+        "meaning": "蒼蠅",
+        "level_id": "1"
+    },
+    {
+        "word": "foam",
+        "pos": "noun/verb",
+        "meaning": "泡沫；起泡沫",
+        "level_id": "2"
+    },
+    {
+        "word": "focus",
+        "pos": "noun/verb",
+        "meaning": "焦點；聚焦",
+        "level_id": "1"
+    },
+    {
+        "word": "fog",
+        "pos": "noun",
+        "meaning": "霧",
+        "level_id": "1"
+    },
+    {
+        "word": "foggy",
+        "pos": "adj.",
+        "meaning": "多霧的",
+        "level_id": "2"
+    },
+    {
+        "word": "fold",
+        "pos": "verb/noun",
+        "meaning": "摺疊；褶（痕）",
+        "level_id": "2"
+    },
+    {
+        "word": "folk",
+        "pos": "noun/adj.",
+        "meaning": "人們；民俗的、民間的",
+        "level_id": "2"
+    },
+    {
+        "word": "follow",
+        "pos": "verb",
+        "meaning": "跟隨、接著、遵循",
+        "level_id": "1"
+    },
+    {
+        "word": "follower",
+        "pos": "noun",
+        "meaning": "追隨者",
+        "level_id": "2"
+    },
+    {
+        "word": "following",
+        "pos": "adj./prep./pron./noun",
+        "meaning": "接著的、下列的；在…之後；下列事物；追隨者",
+        "level_id": "1"
+    },
+    {
+        "word": "fond",
+        "pos": "adj.",
+        "meaning": "喜歡的",
+        "level_id": "2"
+    },
+    {
+        "word": "food",
+        "pos": "noun",
+        "meaning": "食物",
+        "level_id": "1"
+    },
+    {
+        "word": "fool",
+        "pos": "noun/adj.",
+        "meaning": "傻瓜；愚蠢的",
+        "level_id": "1"
+    },
+    {
+        "word": "fool",
+        "pos": "verb",
+        "meaning": "愚弄、欺騙",
+        "level_id": "1"
+    },
+    {
+        "word": "foolish",
+        "pos": "adj.",
+        "meaning": "愚蠢的",
+        "level_id": "1"
+    },
+    {
+        "word": "foot",
+        "pos": "noun",
+        "meaning": "腳",
+        "level_id": "1"
+    },
+    {
+        "word": "football",
+        "pos": "noun",
+        "meaning": "足球",
+        "level_id": "1"
+    },
+    {
+        "word": "for",
+        "pos": "prep.",
+        "meaning": "為了、給、（時間、距離）達",
+        "level_id": "1"
+    },
+    {
+        "word": "for",
+        "pos": "conj.",
+        "meaning": "因為",
+        "level_id": "1"
+    },
+    {
+        "word": "forbid",
+        "pos": "verb",
+        "meaning": "禁止、阻止",
+        "level_id": "2"
+    },
+    {
+        "word": "force",
+        "pos": "noun",
+        "meaning": "力量",
+        "level_id": "1"
+    },
+    {
+        "word": "force",
+        "pos": "verb",
+        "meaning": "強迫",
+        "level_id": "1"
+    },
+    {
+        "word": "forecast",
+        "pos": "noun/verb",
+        "meaning": "預報；預測",
+        "level_id": "2"
+    },
+    {
+        "word": "forehead",
+        "pos": "noun",
+        "meaning": "額頭",
+        "level_id": "2"
+    },
+    {
+        "word": "foreign",
+        "pos": "adj.",
+        "meaning": "外國的",
+        "level_id": "1"
+    },
+    {
+        "word": "foreigner",
+        "pos": "noun",
+        "meaning": "外國人",
+        "level_id": "1"
+    },
+    {
+        "word": "foresee",
+        "pos": "verb",
+        "meaning": "預見",
+        "level_id": "2"
+    },
+    {
+        "word": "forest",
+        "pos": "noun",
+        "meaning": "森林",
+        "level_id": "1"
+    },
+    {
+        "word": "forever",
+        "pos": "adv.",
+        "meaning": "永遠",
+        "level_id": "2"
+    },
+    {
+        "word": "forget",
+        "pos": "verb",
+        "meaning": "忘記",
+        "level_id": "1"
+    },
+    {
+        "word": "forgetful",
+        "pos": "adj.",
+        "meaning": "健忘的",
+        "level_id": "2"
+    },
+    {
+        "word": "forgive",
+        "pos": "verb",
+        "meaning": "原諒",
+        "level_id": "1"
+    },
+    {
+        "word": "fork",
+        "pos": "noun",
+        "meaning": "叉子",
+        "level_id": "1"
+    },
+    {
+        "word": "form",
+        "pos": "noun",
+        "meaning": "表格、形狀",
+        "level_id": "1"
+    },
+    {
+        "word": "form",
+        "pos": "verb",
+        "meaning": "組成",
+        "level_id": "1"
+    },
+    {
+        "word": "formal",
+        "pos": "adj.",
+        "meaning": "正式的",
+        "level_id": "1"
+    },
+    {
+        "word": "formation",
+        "pos": "noun",
+        "meaning": "組成",
+        "level_id": "2"
+    },
+    {
+        "word": "former",
+        "pos": "pron./adj.",
+        "meaning": "前者；從前的",
+        "level_id": "1"
+    },
+    {
+        "word": "formula",
+        "pos": "noun",
+        "meaning": "公式、方程式",
+        "level_id": "2"
+    },
+    {
+        "word": "fort",
+        "pos": "noun",
+        "meaning": "要塞、堡壘",
+        "level_id": "2"
+    },
+    {
+        "word": "forth",
+        "pos": "adv.",
+        "meaning": "向前",
+        "level_id": "2"
+    },
+    {
+        "word": "fortunate",
+        "pos": "adj.",
+        "meaning": "幸運的",
+        "level_id": "2"
+    },
+    {
+        "word": "fortune",
+        "pos": "noun",
+        "meaning": "運氣、命運；財富",
+        "level_id": "2"
+    },
+    {
+        "word": "forty",
+        "pos": "number/pron./noun/adj.",
+        "meaning": "四十",
+        "level_id": "1"
+    },
+    {
+        "word": "forward",
+        "pos": "adv./adj.",
+        "meaning": "向前；前面的",
+        "level_id": "1"
+    },
+    {
+        "word": "found",
+        "pos": "verb",
+        "meaning": "創辦、建立",
+        "level_id": "2"
+    },
+    {
+        "word": "foundation",
+        "pos": "noun",
+        "meaning": "創辦；基礎；基金會",
+        "level_id": "2"
+    },
+    {
+        "word": "founder",
+        "pos": "noun",
+        "meaning": "創辦者、建立者",
+        "level_id": "2"
+    },
+    {
+        "word": "fountain",
+        "pos": "noun",
+        "meaning": "噴泉、噴水池",
+        "level_id": "2"
+    },
+    {
+        "word": "four",
+        "pos": "number/pron./noun/adj.",
+        "meaning": "四",
+        "level_id": "1"
+    },
+    {
+        "word": "fourteen",
+        "pos": "number/pron./noun/adj.",
+        "meaning": "十四",
+        "level_id": "1"
+    },
+    {
+        "word": "fox",
+        "pos": "noun",
+        "meaning": "狐狸",
+        "level_id": "1"
+    },
+    {
+        "word": "fragrance",
+        "pos": "noun",
+        "meaning": "香味、香水",
+        "level_id": "2"
+    },
+    {
+        "word": "frame",
+        "pos": "verb/noun",
+        "meaning": "裝框、構想；架構、框架",
+        "level_id": "2"
+    },
+    {
+        "word": "France",
+        "pos": "noun",
+        "meaning": "法國",
+        "level_id": "1"
+    },
+    {
+        "word": "frank",
+        "pos": "adj.",
+        "meaning": "坦白的",
+        "level_id": "1"
+    },
+    {
+        "word": "free",
+        "pos": "adj.",
+        "meaning": "空閒、免費、自由的",
+        "level_id": "1"
+    },
+    {
+        "word": "free",
+        "pos": "verb",
+        "meaning": "使自由",
+        "level_id": "1"
+    },
+    {
+        "word": "freedom",
+        "pos": "noun",
+        "meaning": "自由",
+        "level_id": "1"
+    },
+    {
+        "word": "freeway",
+        "pos": "noun",
+        "meaning": "高速公路",
+        "level_id": "2"
+    },
+    {
+        "word": "freeze",
+        "pos": "verb",
+        "meaning": "結冰、冷凍；呆住、不動",
+        "level_id": "2"
+    },
+    {
+        "word": "freezer",
+        "pos": "noun",
+        "meaning": "冰箱",
+        "level_id": "1"
+    },
+    {
+        "word": "freezing",
+        "pos": "adj.",
+        "meaning": "極冷的、冰凍的",
+        "level_id": "2"
+    },
+    {
+        "word": "French fries",
+        "pos": "noun",
+        "meaning": "炸薯條",
+        "level_id": "1"
+    },
+    {
+        "word": "frequency",
+        "pos": "noun",
+        "meaning": "頻繁、頻率",
+        "level_id": "2"
+    },
+    {
+        "word": "frequent",
+        "pos": "adj./verb",
+        "meaning": "頻繁的；常去（某處）",
+        "level_id": "2"
+    },
+    {
+        "word": "fresh",
+        "pos": "adj.",
+        "meaning": "新鮮的",
+        "level_id": "1"
+    },
+    {
+        "word": "freshman",
+        "pos": "noun",
+        "meaning": "（高中或大學）一年級新生",
+        "level_id": "2"
+    },
+    {
+        "word": "Friday",
+        "pos": "noun",
+        "meaning": "星期五",
+        "level_id": "1"
+    },
+    {
+        "word": "fridge",
+        "pos": "noun",
+        "meaning": "冰箱",
+        "level_id": "2"
+    },
+    {
+        "word": "friend",
+        "pos": "noun",
+        "meaning": "朋友",
+        "level_id": "1"
+    },
+    {
+        "word": "friendly",
+        "pos": "adj.",
+        "meaning": "友善的",
+        "level_id": "1"
+    },
+    {
+        "word": "friendship",
+        "pos": "noun",
+        "meaning": "友誼",
+        "level_id": "1"
+    },
+    {
+        "word": "fright",
+        "pos": "noun",
+        "meaning": "驚嚇、恐怖",
+        "level_id": "2"
+    },
+    {
+        "word": "frighten",
+        "pos": "verb",
+        "meaning": "使驚恐",
+        "level_id": "1"
+    },
+    {
+        "word": "frisbee",
+        "pos": "noun",
+        "meaning": "飛盤",
+        "level_id": "1"
+    },
+    {
+        "word": "frog",
+        "pos": "noun",
+        "meaning": "青蛙",
+        "level_id": "1"
+    },
+    {
+        "word": "from",
+        "pos": "prep.",
+        "meaning": "從",
+        "level_id": "1"
+    },
+    {
+        "word": "front",
+        "pos": "noun/adj.",
+        "meaning": "前面；前面的",
+        "level_id": "1"
+    },
+    {
+        "word": "frost",
+        "pos": "noun/verb",
+        "meaning": "霜、嚴寒；結霜",
+        "level_id": "2"
+    },
+    {
+        "word": "frosty",
+        "pos": "adj.",
+        "meaning": "結霜的、嚴寒的",
+        "level_id": "2"
+    },
+    {
+        "word": "frown",
+        "pos": "verb/noun",
+        "meaning": "皺眉、表示不滿；皺眉、不悅之色",
+        "level_id": "2"
+    },
+    {
+        "word": "frozen",
+        "pos": "adj.",
+        "meaning": "冷凍的",
+        "level_id": "2"
+    },
+    {
+        "word": "fruit",
+        "pos": "noun",
+        "meaning": "水果",
+        "level_id": "1"
+    },
+    {
+        "word": "frustrate",
+        "pos": "verb",
+        "meaning": "挫敗、使灰心",
+        "level_id": "2"
+    },
+    {
+        "word": "fry",
+        "pos": "verb/noun",
+        "meaning": "炒、炸；油炸物",
+        "level_id": "1"
+    },
+    {
+        "word": "fuel",
+        "pos": "noun/verb",
+        "meaning": "燃料、提供燃料；刺激因素、刺激",
+        "level_id": "2"
+    },
+    {
+        "word": "fulfill",
+        "pos": "verb",
+        "meaning": "實現、履行",
+        "level_id": "2"
+    },
+    {
+        "word": "full",
+        "pos": "adj.",
+        "meaning": "滿的、充滿的",
+        "level_id": "1"
+    },
+    {
+        "word": "full-time",
+        "pos": "adj./adv.",
+        "meaning": "全職的（地）、全日的（地）",
+        "level_id": "2"
+    },
+    {
+        "word": "fully",
+        "pos": "adv.",
+        "meaning": "完全地、充分地",
+        "level_id": "2"
+    },
+    {
+        "word": "fun",
+        "pos": "noun/adj.",
+        "meaning": "樂趣；有趣的",
+        "level_id": "1"
+    },
+    {
+        "word": "function",
+        "pos": "noun/verb",
+        "meaning": "功用；發揮功用",
+        "level_id": "1"
+    },
+    {
+        "word": "functional",
+        "pos": "adj.",
+        "meaning": "實用的、功能的",
+        "level_id": "2"
+    },
+    {
+        "word": "fund",
+        "pos": "noun/verb",
+        "meaning": "資金、基金；資助",
+        "level_id": "2"
+    },
+    {
+        "word": "fundamental",
+        "pos": "adj.",
+        "meaning": "根本的、基礎的",
+        "level_id": "2"
+    },
+    {
+        "word": "funeral",
+        "pos": "noun",
+        "meaning": "葬禮",
+        "level_id": "2"
+    },
+    {
+        "word": "funny",
+        "pos": "adj.",
+        "meaning": "有趣的、好笑的",
+        "level_id": "1"
+    },
+    {
+        "word": "fur",
+        "pos": "noun",
+        "meaning": "毛（皮）",
+        "level_id": "2"
+    },
+    {
+        "word": "furious",
+        "pos": "adj.",
+        "meaning": "盛怒的",
+        "level_id": "2"
+    },
+    {
+        "word": "furnish",
+        "pos": "verb",
+        "meaning": "配備傢俱",
+        "level_id": "2"
+    },
+    {
+        "word": "furniture",
+        "pos": "noun",
+        "meaning": "傢俱",
+        "level_id": "1"
+    },
+    {
+        "word": "further",
+        "pos": "adv./adj.",
+        "meaning": "進一步地；進一步的",
+        "level_id": "1"
+    },
+    {
+        "word": "furthermore",
+        "pos": "adv.",
+        "meaning": "而且、此外",
+        "level_id": "2"
+    },
+    {
+        "word": "future",
+        "pos": "noun/adj.",
+        "meaning": "未來；未來的",
+        "level_id": "1"
+    }
+]
