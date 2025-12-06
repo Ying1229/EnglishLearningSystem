@@ -6,17 +6,11 @@
 
 ---
 
-## 🚀 Demo & 截圖
-（建議放 Demo 影片連結、學生端/教師端登入畫面、題庫頁面等 Screenshot）
-
----
-
 ## 🛠 技術亮點（Engineering Highlights）
 - **模組化的前端架構**（Bootstrap + JS 核心模組分層）
 - **爬蟲 + 資料標準化流程自動化**（輸出 GEPT 字彙題庫）
-- **預留後端可成長架構**（FastAPI + SQLAlchemy + Pydantic）
 - **帳號與學習歷程管理設計**（教師端/學生端雙角色體驗）
-- **前端與資料層清晰分離**（可平滑接後端 API）
+- **前端與資料層清晰分離**（尚未串接，期望使用Java Spring做）
 
 ---
 
@@ -28,8 +22,7 @@
 ✔ 需求與使用情境分析
 # EngLearningSystem｜英文單字＆文法學習平台
 
-  一個以前端模擬為主的英語自學/教學系統，包含學生端複習與測驗、教師端帳號管理與學習紀錄查詢，並附上題庫/字彙資料集與爬蟲、轉檔腳本。預留
-  FastAPI + SQLAlchemy 的後端雛形，方便日後接軌資料庫。
+  一個以前端模擬為主的英語自學/教學系統，包含學生端複習與測驗、教師端帳號管理與學習紀錄查詢，並附上題庫/字彙資料集與爬蟲、轉檔腳本。
 
   ## 功能重點
   - 學生端：登入後可依「複習/測驗」與「單字/文法」選擇學習；單字表支援搜尋+分頁；文法以投影片 Carousel 呈現；測驗支援標記題目、計分、錯題
@@ -46,13 +39,12 @@
   - `crawler/`：`gept_crawl.py` 爬取 GEPT 字彙、`gept_normalize.py` 轉檔、`utils.py` 請求工具
   - `backend/`：FastAPI/SQLAlchemy 架構草稿，`csv_to_json.py` 資料轉換、`load_grammar_slides_to_db.py` 將投影片 JSON 寫入 SQL Server、
   `routers/data.sql` 調整資料表欄位
-  - 其它：`canva.html`（導向 Canva 設計）、`requirements.txt`（後端/爬蟲依賴）
+  - 其它：`requirements.txt`（後端/爬蟲依賴）
 
   ## 快速開始（前端體驗）
   1) 從專案根目錄開啟簡易伺服器（確保 fetch 可讀檔案），例如：
   ```bash
   python -m http.server 8000
-
   2. 瀏覽 http://localhost:8000/frontend/login.html。
   3. 教師帳密預設寫在 frontend/js/seed.js：Senna / 1229。先用教師端建立學生帳號（學號自動產生）。
   4. 學生端登入後即可複習單字/文法、進行測驗並查看個人歷程（資料存於 localStorage）。
